@@ -1,0 +1,12 @@
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\bin\Debug\SubientParcAuto.exe.config
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\bin\Debug\SubientParcAuto.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\bin\Debug\SubientParcAuto.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.csproj.AssemblyReference.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.csproj.SuggestedBindingRedirects.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.Form1.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.Properties.Resources.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.csproj.GenerateResource.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.csproj.CoreCompileInputs.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubientParcAuto\obj\Debug\SubientParcAuto.Form2.resources
