@@ -1,0 +1,12 @@
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\bin\Debug\SubiectStudentiFacultate.exe.config
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\bin\Debug\SubiectStudentiFacultate.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\bin\Debug\SubiectStudentiFacultate.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.csproj.AssemblyReference.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.csproj.SuggestedBindingRedirects.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.Form1.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.Properties.Resources.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.csproj.GenerateResource.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.csproj.CoreCompileInputs.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubiectStudentiFacultate\obj\Debug\SubiectStudentiFacultate.Form2.resources
