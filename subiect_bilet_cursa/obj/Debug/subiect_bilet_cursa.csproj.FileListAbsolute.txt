@@ -1,0 +1,13 @@
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\bin\Debug\subiect_bilet_cursa.exe.config
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\bin\Debug\subiect_bilet_cursa.exe
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\bin\Debug\subiect_bilet_cursa.pdb
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.csproj.AssemblyReference.cache
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.csproj.SuggestedBindingRedirects.cache
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.Properties.Resources.resources
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.csproj.GenerateResource.cache
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.csproj.CoreCompileInputs.cache
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.exe
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.pdb
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.Form2.resources
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.Form1.resources
+C:\PROBLEME POO\PROBLEME_PAW\subiect_bilet_cursa\obj\Debug\subiect_bilet_cursa.Form3.resources
