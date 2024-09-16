@@ -1,0 +1,12 @@
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\bin\Debug\SubiectBicicletePublice.exe.config
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\bin\Debug\SubiectBicicletePublice.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\bin\Debug\SubiectBicicletePublice.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.csproj.AssemblyReference.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.csproj.SuggestedBindingRedirects.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.Form1.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.Properties.Resources.resources
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.csproj.GenerateResource.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.csproj.CoreCompileInputs.cache
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.exe
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.pdb
+C:\PROBLEME POO\PROBLEME_PAW\SubiectBicicletePublice\obj\Debug\SubiectBicicletePublice.Form2.resources
